@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "pridefurnaces",
+  "version": "${version}",
+  "name": "Pride Furnaces",
+  "description": "All kinds of colorful furnaces",
+  "authors": [
+    "DaFuqs",
+    "dragongirlsnout"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/pride_furnaces",
+    "sources": "https://github.com/DaFuqs/PrideFurnaces",
+    "issues": "https://github.com/DaFuqs/PrideFurnaces/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/pridefurnaces/textures/block/ace_furnace_front.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [],
+    "main": [
+      "de.dafuqs.pridefurnaces.PrideFurnaces"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.14.8",
+    "minecraft": ">=1.18.2",
+    "fabric": "*"
+  }
+}

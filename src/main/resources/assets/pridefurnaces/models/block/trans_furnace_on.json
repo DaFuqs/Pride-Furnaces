@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "pridefurnaces:block/trans_furnace_top",
+    "front": "pridefurnaces:block/trans_furnace_front_on",
+    "side": "pridefurnaces:block/trans_furnace_side"
+  }
+}
