@@ -5,8 +5,8 @@
   "block.pridefurnaces.bi_furnace": "FurnBi",
   "block.pridefurnaces.gay_furnace": "FurnGay",
   "block.pridefurnaces.genderqueer_furnace": "Furnderqueer",
-  "block.pridefurnaces.lesbian_furnace": "Fursbian",
-  "block.pridefurnaces.nonbinary_furnace": "FurNonbinary",
-  "block.pridefurnaces.pan_furnace": "Furnapan",
+  "block.pridefurnaces.lesbian_furnace": "Furnbian",
+  "block.pridefurnaces.nonbinary_furnace": "Nonburnery",
+  "block.pridefurnaces.pan_furnace": "FurPan",
   "block.pridefurnaces.trans_furnace": "Transfurn"
 }
