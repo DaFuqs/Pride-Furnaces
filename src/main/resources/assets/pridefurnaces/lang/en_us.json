@@ -1,12 +1,12 @@
 {
-  "block.pridefurnaces.ace_furnace": "FurnAce",
-  "block.pridefurnaces.agender_furnace": "FurnAgender",
-  "block.pridefurnaces.aro_furnace": "FurnAro",
-  "block.pridefurnaces.bi_furnace": "FurnBi",
-  "block.pridefurnaces.gay_furnace": "FurnGay",
+  "block.pridefurnaces.ace_furnace": "Furnace",
+  "block.pridefurnaces.agender_furnace": "Furnagender",
+  "block.pridefurnaces.aro_furnace": "Aroven",
+  "block.pridefurnaces.bi_furnace": "Crucibile",
+  "block.pridefurnaces.gay_furnace": "Incinergaytor",
   "block.pridefurnaces.genderqueer_furnace": "Furnderqueer",
   "block.pridefurnaces.lesbian_furnace": "Furnbian",
   "block.pridefurnaces.nonbinary_furnace": "Nonburnery",
-  "block.pridefurnaces.pan_furnace": "FurPan",
+  "block.pridefurnaces.pan_furnace": "Furpan",
   "block.pridefurnaces.trans_furnace": "Transfurn"
 }
