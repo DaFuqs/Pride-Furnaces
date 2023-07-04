@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "pridefurnaces:ace_furnace",
+    "pridefurnaces:agender_furnace",
+    "pridefurnaces:aro_furnace",
+    "pridefurnaces:bi_furnace",
+    "pridefurnaces:gay_furnace",
+    "pridefurnaces:genderqueer_furnace",
+    "pridefurnaces:lesbian_furnace",
+    "pridefurnaces:nonbinary_furnace",
+    "pridefurnaces:pan_furnace",
+    "pridefurnaces:trans_furnace"
+  ]
+}
