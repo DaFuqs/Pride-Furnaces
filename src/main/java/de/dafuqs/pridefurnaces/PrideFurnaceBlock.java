@@ -25,15 +25,15 @@ public class PrideFurnaceBlock extends FurnaceBlock {
     
     protected void openScreen(World world, BlockPos pos, PlayerEntity player) {
         BlockEntity blockEntity = world.getBlockEntity(pos);
-        if (blockEntity instanceof PrideFurnaceBlockEntity) {
-            player.openHandledScreen((NamedScreenHandlerFactory)blockEntity);
+        if (blockEntity instanceof PrideFurnaceBlockEntity prideFurnaceBlockEntity) {
+            player.openHandledScreen(prideFurnaceBlockEntity);
             player.incrementStat(Stats.INTERACT_WITH_FURNACE); // yeah, why not. It's a furnace after all
         }
     }
     
     @Nullable
     public <T extends BlockEntity> BlockEntityTicker<T> getTicker(World world, BlockState state, BlockEntityType<T> type) {
-        return checkType(world, type, PrideFurnaces.PRIDE_FURNACE_BLOCK_ENTITY_TYPE);
+        return validateTicker(world, type, PrideFurnaces.PRIDE_FURNACE_BLOCK_ENTITY_TYPE);
     }
     
 }
